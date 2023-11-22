@@ -11,7 +11,7 @@ function ageToDays(){
         let days = age *365;
     daysOutput.value = days;
     } else{
-        alert(`Please enter a number you FOOL!`)
+        alert(`Please enter a number.`)
     }
 }
 
